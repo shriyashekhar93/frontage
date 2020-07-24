@@ -83,6 +83,9 @@ button {
     width: 100%;
     max-width: 480px;
 }
+.feature img.icons{
+    max-width: 80px;
+}
 
 #feature-first {
     background: linear-gradient(168deg, #ffffff 55%, #838CEA 0);
