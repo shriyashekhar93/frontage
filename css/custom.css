@@ -35,7 +35,7 @@ button {
 }
 
 .cta-green {
-    background: #00FFAD;
+    background: #2C3696;
     color: #192440;
 }
 
@@ -74,9 +74,9 @@ button {
     overflow: hidden;
 }
 
-#banner header img {
+/* #banner header img {
     max-width: 80px;
-}
+} */
 
 /********** feature (skew background) **********/
 .feature img {
@@ -92,7 +92,7 @@ button {
 }
 
 #feature-last {
-    background: #00FFAD;
+    background: #838CEA;
 }
 
 /********** price table **********/
@@ -120,13 +120,13 @@ button {
 }
 
 #contact form {
-    color: #00FFAD;
+    color: #2C3696;
 }
 
 #contact form input,
 #contact form textarea {
     background: transparent;
-    border: 1px solid #00FFAD;
+    border: 1px solid #2C3696;
     color: #ffffff;
 }
 
@@ -151,7 +151,7 @@ button {
 }
 
 #copyright #social-media a:hover {
-    background: #00FFAD;
+    background: #2C3696;
 }
 
 #copyright #social-media a:hover i {
