@@ -36,12 +36,12 @@ button {
 
 .cta-green {
     background: #2C3696;
-    color: #192440;
+    color: #ffffff;
 }
 
 .cta-green:hover {
     color: #ffffff;
-    background: #00e69c;
+    background: #E7A801;
 }
 
 .cta-blue {
@@ -67,6 +67,9 @@ button {
 #banner {
     background-size: cover;
     height:900px;
+}
+.main-context{
+    margin-top: 7%;
 }
 
 /********** banner **********/
